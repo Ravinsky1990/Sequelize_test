@@ -1,22 +1,22 @@
 module.exports = {
   development: {
-    username: "ytnrlkyv",
-    password: "jNWxIl46QROI1fNFCxRYhM2_U8rLBAoQ",
-    database: "ytnrlkyv",
+    username: "kbcbngcz",
+    password: "3HSMlVO881AVo68ZXy5D5XmyyEGkTcEH",
+    database: "kbcbngcz",
     host: "salt.db.elephantsql.com",
     dialect: "postgres"
   },
   test: {
-    username: "ytnrlkyv",
-    password: "jNWxIl46QROI1fNFCxRYhM2_U8rLBAoQ",
-    database: "ytnrlkyv",
+    username: "kbcbngcz",
+    password: "3HSMlVO881AVo68ZXy5D5XmyyEGkTcEH",
+    database: "kbcbngcz",
     host: "salt.db.elephantsql.com",
     dialect: "postgres"
   },
   production: {
-    username: "ytnrlkyv",
-    password: "jNWxIl46QROI1fNFCxRYhM2_U8rLBAoQ",
-    database: "ytnrlkyv",
+    username: "kbcbngcz",
+    password: "3HSMlVO881AVo68ZXy5D5XmyyEGkTcEH",
+    database: "kbcbngcz",
     host: "salt.db.elephantsql.com",
     dialect: "postgres"
   }
